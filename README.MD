@@ -36,5 +36,8 @@
 #imap&smtp_test.py
 Нагрузочное тестирование imap и smtp протоколов
 
+#search.sh
+Сбор логов с серверов VK WorkMail
+
 #sogo_test.py
 Нагрузочное тестирование web клиента SOGO
